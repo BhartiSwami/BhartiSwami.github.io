@@ -320,7 +320,7 @@
                     <form><input type="button" value="view" onclick="openBloodDonation()"></form>
 
                   </div>
-                  <small class="text-muted">emergency & blood Banks</small>
+                  <small class="text-muted">Emergency & blood Banks</small>
                 </div>
               </div>
             </div>
