@@ -96,7 +96,7 @@
       </nav>
 
 
-<!-- sign Up Model -->
+<!-- signUp Model -->
 
 
 
@@ -245,7 +245,7 @@
               <img src="f.jpg">
               <div class="card-body">
                 <h5>Accident Victim's Treatment</h5>
-                <p class="card-text">Donate for the accident victims who don't have money for their treatment and currently fighting for their life.</p>
+                <p class="card-text">Donate for the accident victims who don't have Money for their treatment and currently fighting for their life.</p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                     <form><input type="button" value="view" onclick="openVictimTreatment()"></form>
@@ -320,7 +320,7 @@
                     <form><input type="button" value="view" onclick="openBloodDonation()"></form>
 
                   </div>
-                  <small class="text-muted">Emergency & blood Banks</small>
+                  <small class="text-muted">emergency & blood Banks</small>
                 </div>
               </div>
             </div>
